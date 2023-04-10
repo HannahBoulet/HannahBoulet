@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on:
     - Group Project in Software enginner aiming to complete our "Managers" requests for our "client" in Java.
     - Data Collection project which is aiming to analyze different data collection from the belts category on the GoodWill store site. 
