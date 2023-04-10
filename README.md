@@ -1,15 +1,21 @@
 ### Hi there 👋
+- ✉️ How to reach me: [Hannah.j.boulet@gmail.com](mailto:Hannah.j.boulet@gmail.com)
+- 📫 Find me elsewhere:
+    - [Linkedin](https://www.linkedin.com/in/hannah-boulet-74380b228/)
+- 😄 Pronouns: She/Her
+- 🎓 **Current Education:** Undergraduate Computer Science Major | Appalachian State University
 
 - 🔭 I’m currently working on:
-    - Group Project in Software enginner aiming to complete our "Managers" requests for our "client" in Java.
-    - Data Collection project which is aiming to analyze different data collection from the belts category on the GoodWill store site. 
+    - Group Project in Software enginner aiming to complete our "Managers" requests for our "Client" in Java
+    - Data Collection project which is aiming to analyze different data collection from the belts category on the GoodWill store site
+    - Database project in SQL making a blood drive database for a "Client"
 - 🌱 I’m currently learning:
     - Data collection using Python
     - Databases with SQL
-    - Software engineering in a team of fellow students and Secruity analytics using Python.
-- 👯 I’m looking to collaborate on projects that challange me and allow me to grown and learn more!
-- 📫 Find me elsewhere:
-    - [Linkedin](https://www.linkedin.com/in/hannah-boulet-74380b228/)
-- ✉️ How to reach me: [Hannah.j.boulet@gmail.com](mailto:Hannah.j.boulet@gmail.com)
-- 😄 Pronouns: She/Her
-- 🎓 **Current Education:** Undergraduate Computer Science Major | Appalachian State University
+    - Software engineering in a team of fellow students
+    - Secruity analytics using Python
+- 👯 I’m looking to collaborate on projects that challenge me and allow me to grown and learn more.
+- 📓 Interested in:
+    - Data Science
+    - UI/UX
+    - Artifical intelligence and how it can help shape UX/UI
