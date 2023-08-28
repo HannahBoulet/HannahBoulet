@@ -6,16 +6,13 @@
 - 🎓 **Current Education:** Undergraduate Computer Science Major | Appalachian State University
 
 - 🔭 I’m currently working on:
-    - Group Project in Software enginner aiming to complete our "Managers" requests for our "Client" in Java
-    - Data Collection project which is aiming to analyze different data collection from the belts category on the GoodWill store site
-    - Database project in SQL making a blood drive database for a "Client"
+    - First month of classes so nothing yet!
 - 🌱 I’m currently learning:
-    - Data collection using Python
-    - Databases with SQL
-    - Software engineering in a team of fellow students
-    - Secruity analytics using Python
-- 👯 I’m looking to collaborate on projects that challenge me and allow me to grown and learn more.
+    - Problem Deep Based Learning
+    - Systems 1
+    - Programming Languages where we are learning Haskell
+- 👯 I’m looking to collaborate on projects that challenge me and allow me to grow and learn more.
 - 📓 Interested in:
     - Data Science
     - UI/UX
-    - Artifical intelligence and how it can help shape UX/UI
+    - Artificial intelligence and how it can help shape UX/UI
