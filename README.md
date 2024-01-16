@@ -6,13 +6,13 @@
 - 🎓 **Current Education:** Undergraduate Computer Science Major | Appalachian State University
 
 - 🔭 I’m currently working on:
-    - Wordle in Haskell
-    - Improving a robot to play a game with Problem Deep based Learning
-    - Creating a y-86 machine in C
+    - Creating my personal website
+    - Deciphering X86-64 machine code
 - 🌱 I’m currently learning:
-    - Problem Deep Based Learning
-    - C to create a y-86 machine
-    - Haskell
+    - Computer Systems 2 
+          - X86-64 machine code, C/C++
+    - Full Stack Web Development
+- Received Data Science Certificate Fall 2023
 - 👯 I’m looking to collaborate on projects that challenge me and allow me to grow and learn more.
 - 📓 Interested in:
     - Data Science
