@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Full Stack Web Dev, Hunger and Health Coalition Backend for capstone and X-86 code for Systems 2.<br>I'm interested in collaborating on projects that challenge me and allow growth of my knowledge.<br>I'm looking to help with more Full stack projects, but do need more experience with front and back end. <br>Currently learning:<br>    - JavaScript<br>    - TypeScript<br>    - X-86<br>    - MongoDB<br>    - CSS<br>    - HTML<br>Ask me about full-stack web dev!<br>Fun Fact:I'm currently run 2 different organizations/event.
+I'm currently working on Full Stack Web Dev, Hunger and Health Coalition Backend for capstone and X-86 code for Systems 2.<br>I'm interested in collaborating on projects that challenge me and allow growth of my knowledge.<br>I'm looking to help with more Full stack projects, but do need more experience with front and back end. <br>Currently learning:<br>    - JavaScript<br>    - TypeScript<br>    - X-86<br>    - MongoDB<br>    - CSS<br>    - HTML<br>Ask me about full-stack web dev!<br>Fun Fact:I'm currently running 2 different organizations/event.
 
 
 ## 🌐 Socials:
