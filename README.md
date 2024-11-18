@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio and a new project(still figuring it out)<br>👯 I’m looking to collaborate on projects that challenge me and allow growth of my knowledge<br>🤝 I’m looking for help with Back-end and Front-end development.<br>🌱 I’m currently learning <br>- MERN Stack<br>- Ruby on Rails <br>- Next.js <br>💬 Ask me about my projects!<br>
+🔭 I’m currently working on my portfolio and studying Python.
+<br>👯 I’m looking to collaborate on projects that challenge me and allow growth of my knowledge<br>🤝 I’m looking for help with Back-end and Front-end development.<br>🌱 I’m currently learning <br>- Python<br>- Docker/DockerCompose <br>- Robot FrameWork<br>💬 Ask me about my projects!<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HannahBoulet&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HannahBoulet&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
